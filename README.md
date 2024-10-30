@@ -1,4 +1,4 @@
-![Background](assets/background.webp)
+![Background](assets/background.gif)
 
 <hr>
 
